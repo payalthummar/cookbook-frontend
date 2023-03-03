@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Barmy British Food (Cookbook)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple cookbook of British Food recipes as an opportunity to practice and learn more about:
 
-## Available Scripts
+- Building a Single Page Application with React
+- Implementing static and dynamic React routing
+- Building a RESTful API using Node, Express, PostgreSQL and ElephantsSQL
+- Fetching, displaying and updating data from the API
+- Using ReactHooks (useState, useEffect, useNavigate)
+- Implementing search
 
-In the project directory, you can run:
+➡ Check out [Barmy British Food (Cookbook)](https://cookbook-frontend-wd33.netlify.app/)
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**[Client](https://github.com/payalthummar/cookbook-frontend):** React, CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**[Server](https://github.com/payalthummar/cookbook-backend):** Node.js, Express, PostgreSQL, ElephantsSQL
 
-### `npm test`
+**Deployed with:** Netlify (client), Render (server)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Overview
 
-### `npm run build`
+**The user can:**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- See random food images from the database of different categories
+- Visit individual recipe pages
+- Search for recipes by name
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Acknowledgements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Contentful](https://www.contentful.com/)
+- [ElephantSQL](https://www.elephantsql.com/)
 
-### `npm run eject`
+## Authors
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@payalthummar](https://github.com/payalthummar)
+- [@ve](https://github.com/oh-ve)
+- [@Dola35](https://github.com/Dola35)
