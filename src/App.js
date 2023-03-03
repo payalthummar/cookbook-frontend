@@ -16,6 +16,7 @@ import ErrorPage from "./components/ErrorPage";
 function App() {
   const [recipes, setRecipes] = useState();
   const url = "https://cookbook-backend-v6le.onrender.com/api/recipes";
+  //build is installed
 
   function fetchData() {
     fetch(url)
